@@ -1,7 +1,9 @@
 package be.pxl.ja2.jdbc;
 
 import java.sql.*;
-
+/**
+ * Exercise 2: Get data from database directly from app
+ */
 public class SearchBeers {
 
 	public static void main(String[] args) {
